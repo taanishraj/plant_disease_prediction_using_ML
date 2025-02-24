@@ -8,7 +8,7 @@ from PIL import Image
 
 # Model path
 model_path = "trained_plant_disease_model.keras"
-gdrive_url = "https://drive.google.com/drive/u/0/folders/1KSkBlZ9I23wvxXmwmwkDbON_XSF-84PC"  # Modified Google Drive link
+gdrive_url = "https://drive.google.com/uc?id=13FPoqxOZE9_V_zP6cErcVfaBm7tulBf5"  # Modified Google Drive link
 
 # Function to download the model if not found
 def download_model():
