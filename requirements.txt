@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+tensorboard
+opencv_python_headless
+gdown
